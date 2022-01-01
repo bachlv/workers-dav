@@ -1,0 +1,14 @@
+{
+  "name": "vercel-dav",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@vercel/node": "1.x"
+  },
+  "scripts": {
+    "deploy":"vercel deploy --prod",
+    "start": "vercel dev"
+  },
+  "author": "SunYufei",
+  "license": "MIT"
+}
